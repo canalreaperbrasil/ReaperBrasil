@@ -1,1 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1.0" name="main folder Reaper Brasil">
 
+  <!-- Scripts -->
+  <category name="scripts">
+    <reapack name="Procurar Reaper Brasil.lua" type="script" desc="Procurar Reaper Brasil">
+     <version name="1.0" author="Reaper Brasil" time="25-05-2026">
+        <source main="main">https://github.com/canalreaperbrasil/ReaperBrasil/raw/refs/heads/main/Scripts/Procurar%20Reaper%20Brasil.lua</source>
+      </version>
+    </reapack>
+  </category>
+
+  <!-- Effects -->
+  <category name="sub folder name here">
+    <reapack name="script name" type="effect" desc="script name">
+      <version name="1.0" author="your name here" time="08-06-2025">
+        <source main="main">paste raw link here</source>
+      </version>
+    </reapack>
+  </category>
+
+</index>
