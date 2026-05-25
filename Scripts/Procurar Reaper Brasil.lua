@@ -1,10 +1,5 @@
 --Script adaptado do script original do Leandro Fachinetti 
--- @about
---   # Your Script Name
---   This is a detailed description of what your script does.
---   It supports **Markdown** for styling, links, and lists.
---   * Feature A
---   * Feature B
+-- @about Script for matching takes audio and stretch them using stretch markers
 local continue, search = reaper.GetUserInputs("Procurar no canal Reaper Brasil", 1,
                                               "Search:,extrawidth=100", "")
 
