@@ -4,7 +4,18 @@
   <!-- Scripts -->
   <category name="scripts">
     <reapack name="Procurar Reaper Brasil.lua" type="script" desc="Procurar Reaper Brasil">
-     <version name="1.0" author="Reaper Brasil" time="25-05-2026">
+<metadata>
+      <description><![CDATA[
+É necessária a instalação da extensão SWS.
+        # Procurar Reaper Brasil
+Este script ajuda você a encontrar recursos, vídeos e dicas do canal Reaper Brasil diretamente dentro do REAPER.
+
+## Como usar:
+1. Abra o script pelo menu de Actions.
+2. Digite o termo que deseja buscar.
+3. Pressione Enter para ver os resultados.
+      ]]></description>
+  <version name="1.0" author="Reaper Brasil" time="25-05-2026">
         <source main="main">https://github.com/canalreaperbrasil/ReaperBrasil/raw/refs/heads/main/Scripts/Procurar%20Reaper%20Brasil.lua</source>
       </version>
     </reapack>
