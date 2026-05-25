@@ -1,4 +1,6 @@
---Script adaptado do script original do Leandro Fachinetti 
+-- @description Align Takes
+-- @version 3.11
+-- @author MPL
 -- @about Script for matching takes audio and stretch them using stretch markers
 local continue, search = reaper.GetUserInputs("Procurar no canal Reaper Brasil", 1,
                                               "Search:,extrawidth=100", "")
