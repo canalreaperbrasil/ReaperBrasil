@@ -5,7 +5,7 @@
   <category name="scripts">
     <reapack name="Procurar Reaper Brasil.lua" type="script" desc="Procurar Reaper Brasil">
       <metadata>
-<description>\line This is a simple synth using</description>
+<description>{\rtf1\ansi\fs24Links: {\field{\*\fldinst{HYPERLINK "https://bobobo.de/reaper/J--sat SFX/"}} {\fldrslt website}} / \line\line {\fs48\b OwnSynth\b}\line\line This is a simple synth using\line sine saw square and triangle waves (created from sine waves)\line with hipass and lowpass filters with resonance,\line a sub (oct down) and aub (oct up)\line diable pitchrange settings\line and a clipper.\line and mono to 16 voices\line it is not realy polyphone, you got one osc per note in time\line\line THIS STUFF IS MONO\line\line Mainly made to get a simple synth done n JSFX} </description>
 </metadata>
   <version name="2.4" author="Reaper Brasil" time="25-05-2026">
         <source main="main">https://github.com/canalreaperbrasil/ReaperBrasil/raw/refs/heads/main/Scripts/Procurar%20Reaper%20Brasil.lua</source>
