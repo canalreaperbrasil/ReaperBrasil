@@ -4,7 +4,7 @@
   <!-- Scripts -->
   <category name="scripts">
     <reapack name="Procurar Reaper Brasil.lua" type="script" desc="Procurar Reaper Brasil">
-  <version name="2.3" author="Reaper Brasil" time="25-05-2026">
+  <version name="2.4" author="Reaper Brasil" time="25-05-2026">
         <source main="main">https://github.com/canalreaperbrasil/ReaperBrasil/raw/refs/heads/main/Scripts/Procurar%20Reaper%20Brasil.lua</source>
       </version>
     </reapack>
