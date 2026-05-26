@@ -50,5 +50,20 @@ Fa\'e7a uma sele\'e7\'e3o dentro de uma track de envelope. Rode o script para au
       </version>
     </reapack>
   </category>
+  <category name="scripts">
+    <reapack name="Diminuir parâmetro de seleção de envelope.lua" type="script" desc="Diminuir parâmetro de seleção de envelope.lua">
+      <metadata>
+<description>{\rtf1\ansi\deff0
+{\fonttbl{\f0\fswiss\fcharset0 Arial;}}
+\viewkind4\uc1\pard\f0\fs24
+Fa\'e7a uma sele\'e7\'e3o dentro de uma track de envelope. Rode o script para aumentar os valores dessa sele\'e7\'e3o. Aconselho criar uma tecla de atalho.\par
+}
+</description>
+</metadata>
+  <version name="1.0" author="Reaper Brasil" time="25-05-2026">
+            <source main="main">https://github.com/canalreaperbrasil/ReaperBrasil/raw/refs/heads/main/Scripts/Diminuir%20par%C3%A2metro%20de%20sele%C3%A7%C3%A3o%20de%20envelope.lua</source>
+      </version>
+    </reapack>
+  </category>
 
  </index>
