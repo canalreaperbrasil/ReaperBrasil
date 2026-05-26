@@ -1,6 +1,4 @@
---Script adaptado do script original do Leandro Fachinetti 
 -- @about teste
-end
 
 local continue, search = reaper.GetUserInputs("Procurar no canal Reaper Brasil", 1,
                                               "Search:,extrawidth=100", "")
