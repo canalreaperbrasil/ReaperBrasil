@@ -5,7 +5,7 @@
   <category name="scripts">
     <reapack name="Procurar Reaper Brasil.lua" type="script" desc="Procurar Reaper Brasil">
       <metadata>
-<description>Teste de descrição
+<description>"Teste de descrição"
 </metadata>
   <version name="2.4" author="Reaper Brasil" time="25-05-2026">
         <source main="main">https://github.com/canalreaperbrasil/ReaperBrasil/raw/refs/heads/main/Scripts/Procurar%20Reaper%20Brasil.lua</source>
