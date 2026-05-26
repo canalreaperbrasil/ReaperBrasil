@@ -65,5 +65,22 @@ Fa\'e7a uma sele\'e7\'e3o dentro de uma track de envelope. Rode o script para di
       </version>
     </reapack>
   </category>
+  <category name="scripts">
+    <reapack name="Duplicar tracks sem o áudio.lua" type="script" desc="Duplicar tracks sem o áudio.lua">
+      <metadata>
+<description>{\rtf1\ansi\deff0
+{\fonttbl{\f0\fswiss\fcharset0 Arial;}}
+\viewkind4\uc1\pard\f0\fs24
+Selecione uma track e rode a a\'e7\'e3o para fazer uma c\'f3pia da track sem o \'e1udio.\par
+}
+
+</description>
+</metadata>
+  <version name="1.0" author="Reaper Brasil" time="25-05-2026">
+            <source main="main">https://github.com/canalreaperbrasil/ReaperBrasil/raw/refs/heads/main/Scripts/Duplicar%20tracks%20sem%20o%20%C3%A1udio.lua</source>
+      </version>
+    </reapack>
+  </category>
+  
 
  </index>
