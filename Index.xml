@@ -19,4 +19,20 @@ IMPORTANTE: \'e9 necess\'e1rio instalar a extens\'e3o SWS para funcionar.\par
     </reapack>
   </category>
 
+   <category name="scripts">
+    <reapack name="Regravar Rápido.lua" type="script" desc="Regravar Rápido.lua">
+      <metadata>
+<description>{\rtf1\ansi\deff0
+{\fonttbl{\f0\fswiss\fcharset0 Arial;}}
+\viewkind4\uc1\pard\f0\fs24
+Rode esta a\'e7\'e3o enquanto voc\'ea est\'e1 gravando e comete um erro. Ela vai parar a grava\'e7\'e3o, voltar ao ponto onde voc\'ea come\'e7ou a gravar e j\'e1 gravar novamente.\par
+}
+</description>
+</metadata>
+  <version name="1.0" author="Reaper Brasil" time="25-05-2026">
+            <source main="main">https://github.com/canalreaperbrasil/ReaperBrasil/raw/refs/heads/main/Scripts/Regravar%20R%C3%A1pido.lua</source>
+      </version>
+    </reapack>
+  </category>
+
  </index>
