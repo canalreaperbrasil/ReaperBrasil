@@ -1,7 +1,10 @@
--- @description
---   This text WILL show up as the documentation in ReaPack.
---   You can use multiple lines by indenting them.
---   Markdown formatting is supported here.
+-- @description Align Takes
+-- @version 2.3
+-- @author MPL
+-- @about Script for matching takes audio and stretch them using stretch markers
+-- @website http://forum.cockos.com/showthread.php?t=188335
+-- @changelog
+--    # skip muted takes
 
 local continue, search = reaper.GetUserInputs("Procurar no canal Reaper Brasil", 1,
                                               "Search:,extrawidth=100", "")
