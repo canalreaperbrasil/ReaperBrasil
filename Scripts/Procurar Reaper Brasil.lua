@@ -1,4 +1,7 @@
--- @about teste
+-- @description
+--   This text WILL show up as the documentation in ReaPack.
+--   You can use multiple lines by indenting them.
+--   Markdown formatting is supported here.
 
 local continue, search = reaper.GetUserInputs("Procurar no canal Reaper Brasil", 1,
                                               "Search:,extrawidth=100", "")
