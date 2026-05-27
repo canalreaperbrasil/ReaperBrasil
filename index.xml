@@ -82,7 +82,6 @@ Selecione uma track e rode a a\'e7\'e3o para fazer uma c\'f3pia da track sem o \
       </version>
     </reapack>
   </category>
-</category>
 <category name="scripts">
     <reapack name="stereo para 2 monos.lua" type="script" desc="stereo para 2 monos.lua">
       <metadata>
