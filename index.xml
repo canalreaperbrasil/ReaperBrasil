@@ -30,7 +30,7 @@ Rode esta a\'e7\'e3o enquanto voc\'ea est\'e1 gravando e comete um erro. Ela vai
 }
 </description>
 </metadata>
-  <version name="1.0" author="Reaper Brasil" time="25-05-2026">
+  <version name="1.0" author="Reaper Brasil" time="27-05-2026">
             <source main="main">https://github.com/canalreaperbrasil/ReaperBrasil/raw/refs/heads/main/Scripts/Regravar%20Rapido.lua</source>
       </version>
     </reapack>
@@ -46,7 +46,7 @@ Fa\'e7a uma sele\'e7\'e3o dentro de uma track de envelope. Rode o script para au
 }
 </description>
 </metadata>
-  <version name="1.0" author="Reaper Brasil" time="25-05-2026">
+  <version name="1.0" author="Reaper Brasil" time="27-05-2026">
             <source main="main">https://github.com/canalreaperbrasil/ReaperBrasil/raw/refs/heads/main/Scripts/Aumentar%20par%C3%A2metro%20de%20sele%C3%A7%C3%A3o%20de%20envelope.lua</source>
       </version>
     </reapack>
@@ -61,7 +61,7 @@ Fa\'e7a uma sele\'e7\'e3o dentro de uma track de envelope. Rode o script para di
 }
 </description>
 </metadata>
-  <version name="1.0" author="Reaper Brasil" time="25-05-2026">
+  <version name="1.0" author="Reaper Brasil" time="27-05-2026">
             <source main="main">https://github.com/canalreaperbrasil/ReaperBrasil/raw/refs/heads/main/Scripts/Diminuir%20par%C3%A2metro%20de%20sele%C3%A7%C3%A3o%20de%20envelope.lua</source>
       </version>
     </reapack>
@@ -77,7 +77,7 @@ Selecione uma track e rode a a\'e7\'e3o para fazer uma c\'f3pia da track sem o \
 
 </description>
 </metadata>
-  <version name="1.0" author="Reaper Brasil" time="25-05-2026">
+  <version name="1.0" author="Reaper Brasil" time="27-05-2026">
             <source main="main">https://github.com/canalreaperbrasil/ReaperBrasil/raw/refs/heads/main/Scripts/Duplicar%20tracks%20sem%20o%20%C3%A1udio.lua</source>
       </version>
     </reapack>
@@ -95,7 +95,7 @@ Transforma a track est\'e9reo selecionada em duas tracks mono.\par
 
 </description>
 </metadata>
-  <version name="1.0" author="Reaper Brasil" time="25-05-2026">
+  <version name="1.0" author="Reaper Brasil" time="27-05-2026">
             <source main="main">https://github.com/canalreaperbrasil/ReaperBrasil/raw/refs/heads/main/Scripts/stereo%20para%202%20monos.lua</source>
       </version>
     </reapack>
