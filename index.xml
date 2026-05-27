@@ -87,11 +87,13 @@ Selecione uma track e rode a a\'e7\'e3o para fazer uma c\'f3pia da track sem o \
     <reapack name="stereo para 2 monos.lua" type="script" desc="stereo para 2 monos.lua">
       <metadata>
 <description>{\rtf1\ansi\deff0
-{\colortbl ;\red255\green0\blue0;}
-\b IMPORTANTE:\b0  instale a extensão sws para poder rodar esses script.\par
+{\fonttbl{\f0\fswiss\fcharset0 Arial;}}
+\viewkind4\uc1\pard\f0\fs24
+IMPORTANTE: instale a extens\'e3o sws para poder rodar esses script.\par
 \par
-Transforma a track estéreo selecionada em duas tracks mono.
+Transforma a track est\'e9reo selecionada em duas tracks mono.\par
 }
+
 </description>
 </metadata>
   <version name="1.0" author="Reaper Brasil" time="25-05-2026">
