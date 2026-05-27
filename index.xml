@@ -3,7 +3,22 @@
 <index version="1.0" name="Reaper Brasil">
 
   <!-- Scripts -->
-  <category name="scripts">
+    <category name="scripts">
+    <reapack name="Regravar Rapido.lua" type="script" desc="Regravar Rapido.lua">
+      <metadata>
+<description>{\rtf1\ansi\deff0
+{\fonttbl{\f0\fswiss\fcharset0 Arial;}}
+\viewkind4\uc1\pard\f0\fs24
+Rode esta a\'e7\'e3o enquanto voc\'ea est\'e1 gravando e comete um erro. Ela vai parar a grava\'e7\'e3o, voltar ao ponto onde voc\'ea come\'e7ou a gravar e j\'e1 gravar novamente.\par
+}
+</description>
+</metadata>
+  <version name="1.2" author="Reaper Brasil" time="25-05-2026">
+            <source main="main">https://github.com/canalreaperbrasil/ReaperBrasil/raw/refs/heads/main/Scripts/Regravar%20Rapido.lua</source>
+      </version>
+    </reapack>
+  </category>
+ <category name="scripts">
     <reapack name="Buscador Reaper Brasil.lua" type="script" desc="Buscador Reaper Brasil.lua">
       <metadata>
 <description>{\rtf1\ansi\deff0
@@ -16,22 +31,6 @@ IMPORTANTE: \'e9 necess\'e1rio instalar a extens\'e3o SWS para funcionar.\par
 </metadata>
   <version name="1.0" author="Reaper Brasil" time="25-05-2026">
             <source main="main">https://github.com/canalreaperbrasil/ReaperBrasil/raw/refs/heads/main/Scripts/Buscador%20Reaper%20Brasil.lua</source>
-      </version>
-    </reapack>
-  </category>
-
-   <category name="scripts">
-    <reapack name="Regravar Rapido.lua" type="script" desc="Regravar Rapido.lua">
-      <metadata>
-<description>{\rtf1\ansi\deff0
-{\fonttbl{\f0\fswiss\fcharset0 Arial;}}
-\viewkind4\uc1\pard\f0\fs24
-Rode esta a\'e7\'e3o enquanto voc\'ea est\'e1 gravando e comete um erro. Ela vai parar a grava\'e7\'e3o, voltar ao ponto onde voc\'ea come\'e7ou a gravar e j\'e1 gravar novamente.\par
-}
-</description>
-</metadata>
-  <version name="1.2" author="Reaper Brasil" time="25-05-2026">
-            <source main="main">https://github.com/canalreaperbrasil/ReaperBrasil/raw/refs/heads/main/Scripts/Regravar%20Rapido.lua</source>
       </version>
     </reapack>
   </category>
