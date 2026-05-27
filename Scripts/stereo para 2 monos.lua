@@ -1,0 +1,7 @@
+reaper.NamedCommandLookup("XENAKIOS_PANTRACKSLEFT")
+reaper.Main_OnCommand(40421, 0)
+reaper.Main_OnCommand(40179, 0)
+reaper.Main_OnCommand(40062, 0)
+reaper.NamedCommandLookup("_XENAKIOS_PANTRACKSRIGHT")
+reaper.Main_OnCommand(40421, 0)
+reaper.Main_OnCommand(40180, 0)
