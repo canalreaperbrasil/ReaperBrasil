@@ -2,7 +2,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index version="1.0" name="Reaper Brasil">
 
-  <!-- Scripts -->
   <category name="scripts">
     <reapack name="Buscador Reaper Brasil.lua" type="script" desc="Buscador Reaper Brasil.lua">
       <metadata>
