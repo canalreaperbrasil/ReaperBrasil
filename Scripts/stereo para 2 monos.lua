@@ -8,10 +8,11 @@ if cmd == 0 then
     )
     return
 end
-reaper.NamedCommandLookup("XENAKIOS_PANTRACKSLEFT")
+
+reaper.Main_OnCommand(reaper.NamedCommandLookup("_XENAKIOS_PANTRACKSLEFT"),0)
 reaper.Main_OnCommand(40421, 0)
 reaper.Main_OnCommand(40179, 0)
 reaper.Main_OnCommand(40062, 0)
-reaper.NamedCommandLookup("_XENAKIOS_PANTRACKSRIGHT")
+reaper.Main_OnCommand(reaper.NamedCommandLookup("_XENAKIOS_PANTRACKSRIGHT"),0)
 reaper.Main_OnCommand(40421, 0)
 reaper.Main_OnCommand(40180, 0)
