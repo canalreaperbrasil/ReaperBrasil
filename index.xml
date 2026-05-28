@@ -20,7 +20,7 @@ IMPORTANTE: \'e9 necess\'e1rio instalar a extens\'e3o SWS para funcionar.\par
   </category>
 
 <category name="scripts">
-    <reapack name="Regravar Rapido.lua" type="script" desc="Regravar Rapido">
+    <reapack name="Regravar Rapido.lua" type="script" desc="Regravar Rapido.lua">
       <metadata>
 <description>{\rtf1\ansi\deff0
 {\fonttbl{\f0\fswiss\fcharset0 Arial;}}
