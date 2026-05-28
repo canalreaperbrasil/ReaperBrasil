@@ -20,7 +20,7 @@ IMPORTANTE: \'e9 necess\'e1rio instalar a extens\'e3o SWS para funcionar.\par
   </category>
 
 <category name="scripts">
-    <reapack name="Regravar Rapido" type="script" desc="Regravar Rapido">
+    <reapack name="Regravar Rapido" type="script" desc="Regravar Rapido.lua">
       <metadata>
 <description>{\rtf1\ansi\deff0
 {\fonttbl{\f0\fswiss\fcharset0 Arial;}}
@@ -34,5 +34,6 @@ Rode esta a\'e7\'e3o enquanto voc\'ea est\'e1 gravando e comete um erro. Ela vai
       </version>
     </reapack>
   </category> 
+
 
 </index>
