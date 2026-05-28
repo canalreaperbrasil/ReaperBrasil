@@ -88,7 +88,7 @@ Transforma a track est\'e9reo selecionada em duas tracks mono.\par
 
 </description>
 </metadata>
-  <version name="1.1" author="Reaper Brasil" time="27-05-2026">
+  <version name="1.2" author="Reaper Brasil" time="27-05-2026">
             <source main="main">https://github.com/canalreaperbrasil/ReaperBrasil/raw/refs/heads/main/Scripts/stereo%20para%202%20monos.lua</source>
       </version>
     </reapack>
