@@ -2,6 +2,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index version="1.0" name="Reaper Brasil">
 
+  <!-- Scripts -->
   <category name="scripts">
     <reapack name="Buscador Reaper Brasil.lua" type="script" desc="Buscador Reaper Brasil.lua">
       <metadata>
@@ -30,8 +31,8 @@ Rode esta a\'e7\'e3o enquanto voc\'ea est\'e1 gravando e comete um erro. Ela vai
 </description>
 </metadata>
   <version name="1.2" author="Reaper Brasil" time="25-05-2026">
-            <source main="main" file="Regravar Rapido.lua">https://github.com/canalreaperbrasil/ReaperBrasil/raw/refs/heads/main/Scripts/Regravar%20Rapido.lua</source>
-          </version>
+            <source main="main">https://github.com/canalreaperbrasil/ReaperBrasil/raw/refs/heads/main/Scripts/Regravar%20Rapido.lua</source>
+      </version>
     </reapack>
   </category>
 
