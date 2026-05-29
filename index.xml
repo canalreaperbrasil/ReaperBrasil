@@ -4,7 +4,7 @@
 
   <!-- Scripts -->
   <category name="scripts">
-    <reapack name="Buscador Reaper Brasil.lua" type="script" desc="Buscador Reaper Brasil.lua">
+    <reapack name="Procurar Reaper Brasil.lua" type="script" desc="Procurar Reaper Brasil.lua">
       <metadata>
 <description>{\rtf1\ansi\deff0
 {\fonttbl{\f0\fswiss\fcharset0 Arial;}}
@@ -15,7 +15,7 @@ IMPORTANTE: \'e9 necess\'e1rio instalar a extens\'e3o SWS para funcionar.\par
 }</description>
 </metadata>
   <version name="1.0" author="Reaper Brasil" time="25-05-2026">
-            <source main="main">https://github.com/canalreaperbrasil/ReaperBrasil/raw/refs/heads/main/Scripts/Buscador%20Reaper%20Brasil.lua</source>
+            <source main="main">https://github.com/canalreaperbrasil/ReaperBrasil/raw/refs/heads/main/Scripts/Procurar%20Reaper%20Brasil.lua</source>
       </version>
     </reapack>
 
